@@ -13,6 +13,12 @@ body {
     color: #F9FAF8;
 }
 
+/*
+.hero {
+    display: flex;
+    flex-direction: column;
+}
+*/
 .h1 {
     font-size: 48px;
     font-weight: 900;
@@ -41,8 +47,11 @@ body {
     font-weight: 300;
     color: #E5E7EB;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 16px;
+    margin-left: auto;
+    margin-right: 64px;
 }
 
 button {
