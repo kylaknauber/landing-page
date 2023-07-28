@@ -146,8 +146,8 @@ button {
 
 .three {
     background-color: #E5E7EB;
-    display: flex;
-    padding: 100px 250px;
+    
+    padding: 100px 350px;
     gap: 100px;
 }
 
@@ -156,9 +156,13 @@ button {
     font-style: italic;
     font-weight: lighter;
     color: #1F2937;
+
+    display: flex;
     justify-content: center;
     align-items: center;
 }
+
+
 
 .authorcontainer {
     display: flex;
@@ -167,13 +171,12 @@ button {
 }
 
 .author {
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     color: #1F2937;
-    justify-content: flex-end;
-    align-items: flex-end;
-    padding-top: 50px;
+    padding-top: 20px;
 }
+
 
 /**************/
 /* Footer */
