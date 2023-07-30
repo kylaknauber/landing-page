@@ -177,6 +177,43 @@ button {
     padding-top: 20px;
 }
 
+/**************/
+/* Section Four */
+/**************/
+
+.four {
+    padding: 50px 100px;
+
+}
+
+.bluecontainer {
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-radius: 8px;
+
+    padding: 50px;
+}
+
+.action {
+    color: #F9FAF8;
+    font-size: 16px;
+}
+
+.actiontext {
+    color: #F9FAF8;
+}
+
+.signuptwo {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    cursor: pointer;
+    border: 2px solid #F9FAF8;
+    font-size: 14px;
+}
+
 
 /**************/
 /* Footer */
