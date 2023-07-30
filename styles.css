@@ -182,24 +182,23 @@ button {
 /**************/
 
 .four {
-    padding: 50px 100px;
+    padding: 50px 200px;
 
 }
 
 .bluecontainer {
     background-color: #3882F6;
     display: flex;
-    justify-content: center;
     align-items: center;
 
     border-radius: 8px;
-    padding: 50px;
+    padding: 50px 100px;
 }
 
 .textcontainer {
     display: flex;
     justify-content: flex-start;
-    align-items: flex-start;
+    
     flex-direction: column;
     padding-right: 50px;
 }
@@ -218,6 +217,7 @@ button {
 
 .buttontwo {
     display: flex;
+    justify-content: flex-end;
 }
 
 .signuptwo {
