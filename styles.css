@@ -79,6 +79,7 @@ button {
     cursor: pointer;
     border: #3882F6;
     font-size: 14px;
+    width: 100px;
 }
 
 .firstimage img {
@@ -198,7 +199,6 @@ button {
 .textcontainer {
     display: flex;
     justify-content: flex-start;
-    
     flex-direction: column;
     padding-right: 50px;
 }
@@ -215,9 +215,10 @@ button {
     font-weight: lighter;
 }
 
-.buttontwo {
+.buttontwo button {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
+    width: 100px;
 }
 
 .signuptwo {
