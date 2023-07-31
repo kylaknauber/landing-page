@@ -56,6 +56,11 @@ body {
     padding-bottom: 50px;
 }
 
+a {
+    text-decoration: none;
+    color:#F9FAF8;
+}
+
 .links {
     list-style-type: none;
     font-size: 18px;
